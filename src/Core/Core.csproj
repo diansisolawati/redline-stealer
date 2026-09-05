@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>RedLine.Core</RootNamespace>
+    <AssemblyName>RedLine.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
